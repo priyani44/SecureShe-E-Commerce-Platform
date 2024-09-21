@@ -71,7 +71,7 @@ SecureShe is designed to provide a secure online shopping experience for women. 
    npm run start
    ```
 
-**Usage**
+**Usage:**
 Once everything is installed and the servers are running:
 
 Access the website at http://localhost:3000 to explore the SecureShe platform.
@@ -86,7 +86,7 @@ The backend exposes the following endpoints:
 
 /api/transactions: Endpoint for handling secure transactions.
 
-**Contributors**
+**Contributors:**
 
 Megha Chakraborty : (UI/UX Design, AI Management)
 
@@ -94,6 +94,6 @@ Priyani Kumari : (Frontend Development)
 
 Twinkle Sharma : (Backend Management with FastAPI)
 
-**License**
+**License:**
 
 This project is licensed under the MIT License - see the LICENSE file for details.
