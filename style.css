@@ -1,0 +1,186 @@
+* {
+  font-family: Arial;
+  margin: 0px;
+  border: border-box;
+  
+  /* background-color: black; */
+}
+.updesign {
+  height: 80px;
+  background-color: rgb(212, 34, 123);
+  color: white;
+  display: flex;
+  justify-content: space-evenly;
+}
+.navlogo {
+  height: 150px;
+  width: 100px;
+}
+.logo {
+  background-image: url("../public/secureshe\ logo-photoaidcom-cropped.jpeg");
+  height: 100px;
+  width: 10%;
+  background-size: cover;
+}
+.text {
+  font-size: 1.5rem;
+  display: flex;
+  align-items: center;
+}
+.nav-search {
+  display: flex;
+  margin-top: 25px;
+  justify-content: space-evenly;
+  background-color: rgb(231, 145, 192);
+  height: 30px;
+  width: 500px;
+  border-radius: 4px;
+}
+.search-input {
+  width: 100%;
+  border: none;
+  display: flex;
+
+  border-top-left-radius: 3px;
+  border-bottom-left-radius: 3px;
+}
+.search-icon {
+  display: flex;
+  width: 40px;
+  justify-content: center;
+  align-items: center;
+  border-top-right-radius: 3px;
+}
+.nav-about{
+  font-size: 1.2rem;
+  display: flex;
+  align-items: center;
+  font-weight: bold;
+  color: white;
+}
+.nav-cart {
+  font-size: 1.2rem;
+  display: flex;
+  align-items: center;
+  font-weight: bold;
+}
+.dropdown-options {
+  color: rgb(185, 53, 75);
+  margin-left: 800px;
+  font-size: larger;
+}
+
+.panel {
+  height: 50px;
+  background-color: pink;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.panelops {
+  margin-left: 10px;
+  display: flex;
+  width: 600px;
+  justify-content: space-evenly;
+}
+
+.hero-section {
+  margin-top: 5px;
+  background-image: url("../public/WhatsApp\ Image\ 2024-09-20\ at\ 5.23.16\ PM.jpeg");
+  height: 700px;
+  width: 1600px;
+  margin-left: 35px;
+}
+
+.shop-section {
+  margin-top: 5px;
+  display: flex;
+  justify-content: space-evenly;
+}
+.box {
+  height: 250px;
+  border: 5px #ca8787 solid;
+  width: 20%;
+  background-color: rgb(241, 147, 191);
+  color: rgb(236, 228, 228);
+  border-top-left-radius: 2px;
+  border-top-right-radius: 2px;
+  border-bottom-left-radius: 2px;
+  margin: 3px;
+  border-radius: 7%;
+}
+.boximage1 {
+  background-image: url("../public/image1.jpg");
+  background-size: cover;
+  height: 200px;
+}
+
+.box-image2 {
+  background-image: url("image2.jpg");
+  background-size: cover;
+  height: 200px;
+}
+.box-image3 {
+  background-image: url("image3.jpg");
+  background-size: cover;
+  height: 200px;
+}
+.box-image4 {
+  background-image: url("image4.jpg");
+  background-size: cover;
+  height: 200px;
+}
+.box-image5 {
+  background-image: url("image5.jpg");
+  background-size: cover;
+  height: 200px;
+}
+footer {
+  margin-top: 10px;
+}
+.foot-panel1 {
+  background-color: rgb(102, 98, 98);
+  color: white;
+  height: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 1rem;
+}
+.foot-panel2 {
+  background-color: rgb(129, 122, 122);
+  color: white;
+  height: 300px;
+  display: flex;
+  justify-content: space-evenly;
+}
+ul {
+  margin-top: 20px;
+}
+ul a {
+  display: block;
+  font-size: 1rem;
+  color: white;
+  margin-top: 10px;
+}
+.foot-panel3 {
+  background-color: rgb(245, 238, 238);
+  color: rgb(252, 13, 172);
+  border: 2px solid black;
+  height: 100px;
+}
+.logo {
+  background-image: url("../public/secureshe\ logo-photoaidcom-cropped.jpeg");
+  height: 40px;
+  width: 60px;
+  background-size: cover;
+}
+.smsigns {
+  font-weight: bolder;
+  margin-left: 700px;
+  margin-top: 30px;
+  font-size: large;
+}
+.signs {
+  padding: 3px;
+}
