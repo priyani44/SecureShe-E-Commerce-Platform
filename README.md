@@ -71,29 +71,37 @@ SecureShe is designed to provide a secure online shopping experience for women. 
    npm run start
    ```
 
-**Usage:**
-Once everything is installed and the servers are running:
+## Usage
 
-Access the website at http://localhost:3000 to explore the SecureShe platform.
-Interact with the chatbot for customer support.
-Browse the shop section and receive personalized product recommendations.
-API Endpoints
+1. **Front-end Development**:
+   - HTML, CSS, JavaScript
+   - React
+
+2. **Back-end Development**:
+   - FastAPI
+
+3. **AI and Chatbot**:
+   - Langchain
+   - Web scraping (Beautiful Soup, Selenium)
+
+4. **Data Handling**:
+   - Pandas (for data manipulation and management)
+
+## API Endpoints
+
 The backend exposes the following endpoints:
 
-/api/recommendations: Get product recommendations.
+- **GET /api/recommendations**: Get product recommendations.
+- **POST /api/chatbot**: Chatbot interaction endpoint.
+- **POST /api/transactions**: Endpoint for handling secure transactions.
 
-/api/chatbot: Chatbot interaction endpoint.
+## Contributors
 
-/api/transactions: Endpoint for handling secure transactions.
+- **Megha Chakraborty** - AI and Data Handling
+- **Priyani Kumari** - Front-end Development
+- **Twinkle Sharma** - Back-end and Database Management
+- **Himanshu Kumar Dutt** - Mentor and Guide
 
-**Contributors:**
+## License
 
-Megha Chakraborty : (UI/UX Design, AI Management)
-
-Priyani Kumari : (Frontend Development)
-
-Twinkle Sharma : (Backend Management with FastAPI)
-
-**License:**
-
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
