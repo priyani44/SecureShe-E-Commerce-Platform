@@ -11,7 +11,6 @@
 - [Usage](#usage)
 - [API Endpoints](#api-endpoints)
 - [Contributors](#contributors)
-- [License](#license)
 
 ## Project Overview
 
@@ -101,7 +100,3 @@ The backend exposes the following endpoints:
 - **Priyani Kumari** - Front-end Development
 - **Twinkle Sharma** - Back-end and Database Management
 - **Himanshu Kumar Dutt** - Mentor and Guide
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
