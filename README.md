@@ -15,6 +15,7 @@
 ## Project Overview
 
 SecureShe is designed to provide a secure online shopping experience for women. From secure transactions to personalized product recommendations, our platform ensures privacy and an engaging experience. We aim to build a strong community where women can feel safe while shopping.
+overview done.
 
 ## Features
 
@@ -37,6 +38,7 @@ SecureShe is designed to provide a secure online shopping experience for women. 
 ## Installation
 
 ### Prerequisites
+Below is the prerequisites needed:
 - Node.js
 - Python 3.x
 - FastAPI
